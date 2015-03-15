@@ -1,0 +1,13 @@
+{
+  "name": "angular-boilerplate-with-browserify",
+  "version": "1.0.0",
+  "private": "true",
+  "devDependencies": {
+    "browserify": "^4.1.8",
+    "gulp": "^3.8.7",
+    "gulp-concat": "^2.5.2",
+    "gulp-connect": "^2.0.6",
+    "underscore": "^1.8.2",
+    "vinyl-source-stream": "^1.0.0"
+  }
+}
