@@ -1,7 +1,7 @@
 # Angular boilerplate using Browserify
 ---
 
-A simple Angular 1.x application structure using Browserify and gulp.js file for build.
+A simple Angular 1.x application structure using [Browserify](http://browserify.org/) and [gulp.js](http://gulpjs.com/) file for build.
 
 ## Release History
 ---
